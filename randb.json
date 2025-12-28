@@ -1,0 +1,102 @@
+{
+  "genre": "R&B",
+  "count": 24,
+  "records": [
+    {
+      "artist": "Al Green",
+      "album": "Al Green Explores Your Mind"
+    },
+    {
+      "artist": "Al Green",
+      "album": "Al Green Is Love"
+    },
+    {
+      "artist": "Al Green",
+      "album": "Call me"
+    },
+    {
+      "artist": "Al Green",
+      "album": "I'm Still in Love with You"
+    },
+    {
+      "artist": "Al Green",
+      "album": "Let's Stay Together"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "Aretha Now"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "I Never Loved a Man the Way I Love You"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "Lady Soul"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "Spirit in the Dark"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "Young, Gifted and Black"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "album": "Here, My Dear"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "album": "I Want You"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "album": "Let's Get It On"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "album": "Moods Of Marvin Gaye"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "album": "What's Going On"
+    },
+    {
+      "artist": "Otis Redding",
+      "album": "Complete & Unbelievable The Otis Redding Dictionary of Soul"
+    },
+    {
+      "artist": "Otis Redding",
+      "album": "Otis Redding Sings Soul"
+    },
+    {
+      "artist": "Otis Redding",
+      "album": "Pain in My Heart"
+    },
+    {
+      "artist": "Otis Redding",
+      "album": "The Dock of the Bay"
+    },
+    {
+      "artist": "Otis Redding",
+      "album": "The Soul Album"
+    },
+    {
+      "artist": "Sam Cooke",
+      "album": "Ain't That Good News"
+    },
+    {
+      "artist": "Sam Cooke",
+      "album": "My Kind Of Blues"
+    },
+    {
+      "artist": "Sam Cooke",
+      "album": "Night Beat"
+    },
+    {
+      "artist": "Sam Cooke",
+      "album": "Twistin' the Night Away"
+    }
+  ]
+}
